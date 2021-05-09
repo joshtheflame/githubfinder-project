@@ -11,6 +11,8 @@ import GithubState from "./context/github/GithubState";
 import AlertState from "./context/alert/AlertState";
 import "./App.css";
 
+//Zahid Zia Siddiqui (A new change applied here)
+
 const App = () => {
   return (
     <GithubState>
